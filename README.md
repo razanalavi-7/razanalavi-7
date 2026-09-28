@@ -1,138 +1,237 @@
 <div align="center">
 
-# 👋 Hi, I'm Razan Alavi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:111827&text=RAZAN%20ALAVI&fontSize=52&fontColor=00ff9d&animation=fadeIn&fontAlignY=38&desc=LEARNING%20%E2%80%A2%20BUILDING%20%E2%80%A2%20SECURING&descSize=18&descAlignY=60&descColor=ffffff" width="100%"/>
 
-### `LEARNING • BUILDING • SECURING`
+# `> whoami`
 
-**Cybersecurity Enthusiast | CS Student**
+### 🛡️ Cybersecurity Enthusiast | CS Student
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=RAZAN%20ALAVI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=LEARNING%20%E2%80%A2%20BUILDING%20%E2%80%A2%20SECURING&descAlignY=58&descSize=18" width="100%"/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Ethical+Hacking+Learner;Future+Cybersecurity+Analyst;Future+Ethical+Hacker;Learning+%E2%80%A2+Building+%E2%80%A2+Securing" />
+</p>
 
-📍 **Kerala, India**  
-🎓 **B.Sc. Computer Science Graduate**  
-🛡️ **Cybersecurity Student @ Offenso Hacker Academy, Kozhikode**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=razanalavi-7&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" />
+</p>
+
+📍 **Kerala, India** &nbsp; | &nbsp; 🎓 **B.Sc. Computer Science** &nbsp; | &nbsp; 🛡️ **Cybersecurity Student**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 💻 `terminal@razan:~$ cat about_me.txt`
 
-I'm a Computer Science student interested in cybersecurity. I'm currently learning ethical hacking, networking, Linux, and web security. I enjoy solving CTF challenges and building security-related projects.
+```bash
+┌──[razan@cyberlab]─[~]
+└─$ whoami
 
-Currently focused on developing my skills in **Cybersecurity, Ethical Hacking, Networking, Linux, Web Security, VAPT, and CTFs**.
+> Computer Science Graduate
+> Cybersecurity Enthusiast
+> Ethical Hacking Learner
+> CTF Beginner
+> Future Cybersecurity Analyst
+> Future Ethical Hacker
 
-My career goals are to become a **Cybersecurity Analyst** and **Ethical Hacker**.
+┌──[razan@cyberlab]─[~]
+└─$ mission
 
----
-
-## 🛡️ Currently Learning
-
-```text
-🔐 Cybersecurity
-⚔️ Ethical Hacking
-🌐 Networking
-🐧 Linux
-🌍 Web Security
-🔎 VAPT
-🚩 Capture The Flag (CTF)
+Learn. Practice. Break. Understand. Secure.
 ```
 
-> 🚀 Just getting started in cybersecurity — more skills, tools, projects and certifications will be added as I progress.
+I'm a Computer Science graduate interested in **cybersecurity and ethical hacking**.
+
+I'm currently building my foundation in:
+
+`Cybersecurity` • `Ethical Hacking` • `Networking` • `Linux` • `Web Security` • `VAPT` • `CTF`
+
+I'm at the beginning of my cybersecurity journey and continuously learning, experimenting and improving my skills.
 
 ---
 
-## 💻 Programming & Markup
+# 🛡️ `CYBERSECURITY // CURRENT FOCUS`
+
+<div align="center">
+
+| 🔐 Cybersecurity | ⚔️ Ethical Hacking | 🌐 Networking |
+|:---:|:---:|:---:|
+| 🟢 Learning | 🟢 Learning | 🟢 Learning |
+
+| 🐧 Linux | 🌍 Web Security | 🔎 VAPT |
+|:---:|:---:|:---:|
+| 🟢 Learning | 🟢 Learning | 🟢 Learning |
+
+| 🚩 CTF |
+|:---:|
+| 🟢 Learning |
+
+</div>
+
+---
+
+# 🧠 `MY LEARNING PATH`
+
+```text
+                     ┌──────────────────┐
+                     │  COMPUTER SCIENCE │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                    ┌──────────────────┐
+                    │    NETWORKING    │
+                    └────────┬─────────┘
+                              │
+                              ▼
+                    ┌──────────────────┐
+                    │      LINUX       │
+                    └────────┬─────────┘
+                              │
+                              ▼
+                  ┌──────────────────────┐
+                  │  ETHICAL HACKING     │
+                  └──────────┬───────────┘
+                             │
+                             ▼
+                  ┌──────────────────────┐
+                  │   WEB SECURITY       │
+                  └──────────┬───────────┘
+                             │
+                             ▼
+                  ┌──────────────────────┐
+                  │        VAPT          │
+                  └──────────┬───────────┘
+                             │
+                             ▼
+                  ┌──────────────────────┐
+                  │        CTFs          │
+                  └──────────┬───────────┘
+                             │
+                             ▼
+                  ┌──────────────────────┐
+                  │ CYBERSECURITY ANALYST│
+                  └──────────┬───────────┘
+                             │
+                             ▼
+                  ┌──────────────────────┐
+                  │   ETHICAL HACKER     │
+                  └──────────────────────┘
+```
+
+---
+
+# 💻 `TECH STACK`
+
+### Programming & Markup
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,html" />
 </p>
 
-**Currently familiar with:**
-
-- C
-- C++
-- HTML
-
----
-
-## 🧰 Cybersecurity Toolkit
-
-> 🔄 **Currently building my toolkit**
-
-As I progress through my cybersecurity training, I'll be adding tools and technologies I've worked with here.
-
 ```text
-[ Learning ]
-
-Linux
-Networking
-Web Security
-VAPT
-Ethical Hacking
-CTF
+C        █████████░░░░░░░░░
+C++      ████████░░░░░░░░░░
+HTML     █████████░░░░░░░░░
 ```
 
-More tools will be added soon. 🔐
+> 🔄 My technology stack will grow as I progress through cybersecurity training.
 
 ---
 
-## 🎓 Education
-
-### B.Sc. Computer Science
-
-**SAFI Institute Of Advanced Studies**
-
-🎓 Completed
-
-### Cybersecurity Training
-
-**Offenso Hacker Academy — Kozhikode**
-
-🛡️ Currently Learning Cybersecurity
-
----
-
-## 🚀 Projects
-
-### 🔧 Currently Building
-
-I'm currently focused on learning cybersecurity fundamentals before starting major projects.
-
-This section will be updated with:
-
-- 🛡️ Cybersecurity projects
-- 🌐 Web security projects
-- 🔎 VAPT projects
-- 🚩 CTF write-ups
-- 🐧 Linux-based projects
-- 🔐 Security research
-
-**Projects coming soon...**
-
----
-
-## 📜 Certifications
-
-Currently building my cybersecurity knowledge and working toward future certifications.
-
-> 🎯 Certifications will be added here as I earn them.
-
----
-
-## 📊 GitHub Statistics
+# 🐧 `CYBER LAB`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=razanalavi-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razanalavi-7&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+```text
+┌─────────────────────────────────────────────┐
+│              CYBERSECURITY LAB              │
+├─────────────────────────────────────────────┤
+│                                             │
+│  🐧 Linux              [ LEARNING ]         │
+│  🌐 Networking         [ LEARNING ]         │
+│  🔎 VAPT               [ LEARNING ]         │
+│  ⚔️ Ethical Hacking    [ LEARNING ]         │
+│  🌍 Web Security       [ LEARNING ]         │
+│  🚩 CTF                [ STARTING ]         │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🎓 `EDUCATION`
+
+### 🎓 B.Sc. Computer Science
+**SAFI Institute Of Advanced Studies**
+
+`COMPLETED`
+
+### 🛡️ Cybersecurity Training
+**Offenso Hacker Academy — Kozhikode**
+
+`CURRENTLY STUDYING`
+
+---
+
+# 🚀 `PROJECTS`
+
+### `STATUS: BUILDING FOUNDATION`
+
+I'm currently focusing on learning cybersecurity fundamentals before building major security projects.
+
+```text
+┌────────────────────────────────────┐
+│         PROJECT PIPELINE           │
+├────────────────────────────────────┤
+│                                    │
+│  🔐 Cybersecurity Projects   ⏳     │
+│  🌐 Web Security Projects    ⏳     │
+│  🔎 VAPT Projects            ⏳     │
+│  🚩 CTF Write-ups            ⏳     │
+│  🐧 Linux Projects           ⏳     │
+│  🔬 Security Research        ⏳     │
+│                                    │
+└────────────────────────────────────┘
+```
+
+> 🚧 **Projects will appear here as I build them.**
+
+---
+
+# 🎯 `2026 // OBJECTIVES`
+
+```text
+[████████████████████████████████]  CYBERSECURITY JOURNEY
+
+☐ Build strong cybersecurity fundamentals
+☐ Master networking fundamentals
+☐ Improve Linux skills
+☐ Learn ethical hacking
+☐ Learn web application security
+☐ Start VAPT practice
+☐ Begin solving CTF challenges
+☐ Build my first cybersecurity project
+☐ Create cybersecurity write-ups
+☐ Earn my first cybersecurity certification
+☐ Build a cybersecurity portfolio
+```
+
+---
+
+# 📊 `GITHUB // SYSTEM STATUS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=razanalavi-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razanalavi-7&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 `CONTRIBUTION // STREAK`
 
 <div align="center">
 
@@ -142,128 +241,132 @@ Currently building my cybersecurity knowledge and working toward future certific
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 `GITHUB // TROPHIES`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=razanalavi-7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=razanalavi-7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 `CONTRIBUTION // MATRIX`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/razanalavi-7/razanalavi-7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/razanalavi-7/razanalavi-7/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
-> ⚠️ The snake animation requires a GitHub Actions workflow to generate the SVG. I'll add the workflow when setting up the profile repository.
-
 ---
 
-## 📈 My Cybersecurity Journey
-
-```text
-Computer Science
-       │
-       ▼
-   Networking
-       │
-       ▼
-     Linux
-       │
-       ▼
-Ethical Hacking
-       │
-       ▼
-  Web Security
-       │
-       ▼
-      VAPT
-       │
-       ▼
-      CTFs
-       │
-       ▼
-Cybersecurity Analyst
-       │
-       ▼
-   Ethical Hacker
-```
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Build a strong cybersecurity foundation
-- [ ] Improve Linux skills
-- [ ] Master networking fundamentals
-- [ ] Learn web application security
-- [ ] Start VAPT practice
-- [ ] Solve CTF challenges
-- [ ] Build my first cybersecurity project
-- [ ] Create cybersecurity write-ups
-- [ ] Earn my first cybersecurity certification
-- [ ] Build a strong cybersecurity portfolio
-
----
-
-## 🌱 Currently Working On
-
-```text
-🔐 Learning Cybersecurity
-🐧 Improving Linux skills
-🌐 Understanding Networking
-⚔️ Exploring Ethical Hacking
-🔎 Learning VAPT
-🚩 Starting CTF challenges
-```
-
----
-
-## 🎮 Beyond Cybersecurity
-
-When I'm not learning cybersecurity:
-
-🎮 **Gaming**  
-🚗 **Cars**  
-✈️ **Travel**
-
----
-
-## 📫 Connect With Me
+# 📈 `ACTIVITY // GRAPH`
 
 <div align="center">
 
-📧 **Email:** [razanalavi@gmail.com](mailto:razanalavi@gmail.com)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=razanalavi-7&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+# 🧩 `CURRENTLY`
+
+```text
+╔══════════════════════════════════════════════╗
+║                 RAZAN ALAVI                  ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  🎓 B.Sc. Computer Science     ✓ COMPLETED   ║
+║  🛡️ Cybersecurity              → LEARNING   ║
+║  ⚔️ Ethical Hacking             → LEARNING   ║
+║  🌐 Networking                  → LEARNING   ║
+║  🐧 Linux                       → LEARNING   ║
+║  🌍 Web Security                → LEARNING   ║
+║  🔎 VAPT                        → LEARNING   ║
+║  🚩 CTF                         → STARTING   ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+# 🌱 `ROADMAP // NEXT`
+
+<div align="center">
+
+`FOUNDATIONS`  
+⬇️  
+`NETWORKING`  
+⬇️  
+`LINUX`  
+⬇️  
+`ETHICAL HACKING`  
+⬇️  
+`WEB SECURITY`  
+⬇️  
+`VAPT`  
+⬇️  
+`CTF`  
+⬇️  
+`REAL-WORLD PROJECTS`  
+⬇️  
+`CYBERSECURITY ANALYST`
+
+</div>
+
+---
+
+# 🎮 `LIFE OUTSIDE THE TERMINAL`
+
+<div align="center">
+
+🎮 **Gaming** &nbsp;&nbsp;&nbsp; 🚗 **Cars** &nbsp;&nbsp;&nbsp; ✈️ **Travel**
+
+</div>
+
+---
+
+# 📫 `CONTACT // CONNECT`
+
+<div align="center">
+
+📧 **razanalavi@gmail.com**
 
 📍 **Kerala, India**
 
-> 🔗 Social and professional links will be added soon.
+### 🔗 Social & Professional Links
+
+`Coming Soon...`
+
+> LinkedIn • TryHackMe • Hack The Box • Portfolio • Other Platforms
 
 </div>
 
 ---
 
-## 👀 Profile Visitors
+# ⚡ `FINAL_MESSAGE`
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=razanalavi-7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│       LEARNING • BUILDING • SECURING       │
+│                                            │
+│        "Every expert was once a            │
+│             beginner."                     │
+│                                            │
+└────────────────────────────────────────────┘
+```
 
 ### 🛡️ Learning Today. Securing Tomorrow.
 
-**Thanks for visiting my profile!** 🚀
+**Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=00FF9D&center=true&vCenter=true&width=500&lines=Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Securing;See+you+in+the+terminal+%F0%9F%96%A5%EF%B8%8F" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0f172a,100:020617&height=120&section=footer" width="100%"/>
